@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Kiwi
+  m_Controller: {fileID: 9100000, guid: f39cb2ae2d3156a408c87d4e3ac370c3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 070a729dc1522e7448fcf6d8cb60a9a1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1810843c26cc4ba448d367ce4f600164, type: 2}
